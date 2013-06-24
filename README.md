@@ -1,5 +1,5 @@
 
-
+Python/Django source code for my Glassware, Glass To Phone. See http://glasstophone.com
 
 I personally dislike Google's Implementation of OAuth2 (see https://developers.google.com/glass/authorization).
 
