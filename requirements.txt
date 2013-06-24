@@ -1,0 +1,3 @@
+django
+requests
+-e git+git://github.com/dgrtwo/ParsePy.git#egg=ParsePy
